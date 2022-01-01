@@ -1,0 +1,21 @@
+{
+	
+	"default_ultra_low_d": {
+		"author": "Alex Goresh",
+		"name": "ULTRA DEFAULT LOW D",
+		"roll": {
+			"p": 4.2,
+			"i": 0.055,
+			"d": 12
+		},
+		"pitch": {
+			"p": 4.8,
+			"i": 0.070,
+			"d": 13.5
+		},
+		"yaw": {
+			"p": 8,
+			"i": 0.050,
+			"d": 5
+		}
+	}
