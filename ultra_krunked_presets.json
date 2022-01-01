@@ -1,6 +1,6 @@
 {
   "default_ultra_low_d": {
-    "author": "Alex Goresh",
+    "author": "Alex Goresch",
     "name": "ULTRA DEFAULT LOW D",
     "roll": {
       "p": 4.2,
@@ -19,7 +19,7 @@
     }
   },
   "default_ultra_high_d": {
-    "author": "Alex Goresh",
+    "author": "Alex Goresch",
     "name": "ULTRA DEFAULT HIGH D",
     "roll": {
       "p": 4.2,
@@ -38,7 +38,7 @@
     }
   },
   "default_ultra": {
-    "author": "Alex Goresh",
+    "author": "Alex Goresch",
     "name": "ULTRA DEFAULT",
     "roll": {
       "p": 4.2,
