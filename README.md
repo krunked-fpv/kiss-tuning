@@ -11,7 +11,7 @@ Use the following PID's as 3 step process to triangulate the best RANGE for your
 1. start at the ULTRA defaults
     -- should fly great on almost any quad
 2. try the high D
-    -- if it TRILLS or makes bad noises, you know that low D is too high
+    -- if it TRILLS or makes bad noises, you know that high D is too high
 3. try the low D
     -- if the quad bounces back harshley or has bounceback, you now know your quad will want more D. 
 
