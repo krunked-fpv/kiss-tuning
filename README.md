@@ -18,3 +18,14 @@ Use the following PID's as 3 step process to triangulate the best RANGE for your
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_default.jpg?raw=true" width="660" height="275"/><br>
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_high_D.jpg?raw=true" width="660" height="275"/><br>
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_low_D.jpg?raw=true" width="660" height="275"/><br>
+
+
+
+# ultra-v2-tuning
+kiss ultra v2 golden pids
+
+
+<img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/v2_golden_pids.jpg?raw=true" width="660" height="275"/><br>
+<img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_tpa.jpg?raw=true" width="660" height="275"/><br>
+<img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/flight_performance.jpg?raw=true" width="660" height="175"/><br>
+<img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/exp_mode_on.jpg?raw=true" width="660" height="660"/><br>
