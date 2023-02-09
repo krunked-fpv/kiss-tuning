@@ -34,6 +34,10 @@ kiss ultra v2 golden pids
 3. if you have issues with these settings, return to ultra defaults
 4. Flight performance tab maxed out -- becuase we do all the things ultra
 
+ADVANCED TUNING NOTE:
+
+you can use higher pd gain's than pictured, remember this is a 'golden' tune.. use the below numbers as a starting point and use the ratio of 1p:3.5d, and you'll find that on the cleanest builds youll be able to push the pd gains up near a 2.0 multiplyer;  your mileage may vary based on a lot of factors so raise your pd gains from the golden starting point at your own risk
+
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/v2_golden_pids.jpg?raw=true" width="660" height="275"/><br>
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_tpa.jpg?raw=true" width="660" height="275"/><br>
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/flight_performance.jpg?raw=true" width="660" height="175"/><br>
