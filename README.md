@@ -7,7 +7,7 @@ do not try and restore these files into the GUI; they currently will not work.<b
 
 # how to use 
 Before proceeding -- please note that this section's PID's are meant for the kiss ultra v1.
-if you are here for kiss ultra v2 settings, scroll down to the 'ultra-v2-tuning' section.
+if you are here for kiss ultra v2 settings, scroll down to the <a href="https://github.com/krunked-fpv/kiss-tuning#ultra-v2-tuning">ultra-v2-tuning</a> section.
 all of the principles still apply. but with new numbers and a few changed settings.
 
 Use the following PID's as 3 step process to triangulate the best RANGE for your quad.
