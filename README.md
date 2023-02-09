@@ -32,7 +32,7 @@ kiss ultra v2 golden pids
 2. experimental mode must be ON for these to work
 3. TPA setting is changed to give authority back at low throttle and kill some mid throttle oscillations 
 3. if you have issues with these settings, return to ultra defaults
-
+4. Flight performance tab maxed out -- becuase we do all the things ultra
 
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/v2_golden_pids.jpg?raw=true" width="660" height="275"/><br>
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_tpa.jpg?raw=true" width="660" height="275"/><br>
