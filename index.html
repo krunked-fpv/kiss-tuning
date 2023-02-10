@@ -1,22 +1,24 @@
 <h1>storage spot for krunked kiss tunes</h1>
 
-I wanted a better place to store the UTLRA tunes than just on discord. <br><br>
+<p>I wanted a better place to store the UTLRA tunes than just on discord. <br><br>
 so i uploaded them here for immdiate use!<br>
-do not try and restore these files into the GUI; they currently will not work.<br><br>
+    do not try and restore these files into the GUI; they currently will not work.<br></p>
 
 <h1>how to use</h1>
-Before proceeding -- please note that this section's PID's are meant for the kiss ultra v1.
-if you are here for kiss ultra v2 settings, scroll down to the <a href="https://github.com/krunked-fpv/kiss-tuning#ultra-v2-tuning">ultra-v2-tuning</a> section.
-all of the principles still apply. but with new numbers and a few changed settings.
+<p>Before proceeding -- please note that this section's PID's are meant for the kiss ultra v1.</p>
+<p>if you are here for kiss ultra v2 settings, scroll down to the <a href="https://github.com/krunked-fpv/kiss-tuning#ultra-v2-tuning">ultra-v2-tuning</a> section.</p>
+<p>all of the principles still apply. but with new numbers and a few changed settings.</p>
 
-Use the following PID's as 3 step process to triangulate the best RANGE for your quad.
+<p>Use the following PID's as 3 step process to triangulate the best RANGE for your quad.</p>
 
-1. start at the ULTRA defaults
-    -- should fly great on almost any quad
-2. try the high D
-    -- if it TRILLS or makes bad noises, you know that high D is too high
-3. try the low D
-    -- if the quad bounces back harshley or has bounceback, you now know your quad will want more D. 
+<ol>
+<li>start at the ULTRA defaults
+    -- should fly great on almost any quad</li>
+<li>try the high D
+    -- if it TRILLS or makes bad noises, you know that high D is too high</li>
+<li>try the low D
+    -- if the quad bounces back harshley or has bounceback, you now know your quad will want more D.</li>
+</ol>
 
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_default.jpg?raw=true" width="660" height="275"/><br>
 <img src="https://github.com/krunked-fpv/kiss-tuning/blob/main/krunked_high_D.jpg?raw=true" width="660" height="275"/><br>
@@ -27,15 +29,17 @@ Use the following PID's as 3 step process to triangulate the best RANGE for your
 <h1>ultra-v2-tuning</h1>
 <h2>kiss ultra v2 golden pids</h2>
 
-1. kiss ultra v2 is a requirment
-2. experimental mode must be ON for these to work
-3. TPA setting is changed to give authority back at low throttle and kill some mid throttle oscillations 
-3. if you have issues with these settings, return to ultra defaults
-4. Flight performance tab maxed out -- becuase we do all the things ultra
+<ol>
+    <li>kiss ultra v2 is a requirment</li>
+<li>experimental mode must be ON for these to work</li>
+<li>TPA setting is changed to give authority back at low throttle and kill some mid throttle oscillations</li>
+<li>if you have issues with these settings, return to ultra defaults</li>
+<li>Flight performance tab maxed out -- becuase we do all the things ultra</li>
+</ol>
 
-ADVANCED TUNING NOTE:
+<p><b>ADVANCED TUNING NOTE:</b><br>
 
-you can use higher pd gain's than pictured, remember this is a 'golden' tune.. use the below numbers as a starting point and use the ratio of 1p:3.5d, and you'll find that on the cleanest builds youll be able to push the pd gains up near a 2.0 multiplyer;  your mileage may vary based on a lot of factors so raise your pd gains from the golden starting point at your own risk
+you can use higher pd gain's than pictured, remember this is a 'golden' tune.. use the below numbers as a starting point and use the ratio of 1p:3.5d, and you'll find that on the cleanest builds youll be able to push the pd gains up near a 2.0 multiplyer;  your mileage may vary based on a lot of factors so raise your pd gains from the golden starting point at your own risk</p>
 
 <div class="pid-table" id="tune1">
     <h4>PIDs & Rates - Tune 1</h4>
@@ -139,6 +143,11 @@ updateTable('tune1');
 </script>
 
 <style>
+    body {
+        font-family: "Titillium Web", sans-serif;
+        background-color: #222222;
+        color: white;
+    }
     input[type=number]::-webkit-inner-spin-button,
     input[type=number]::-webkit-outer-spin-button {
         opacity: 1;
@@ -153,7 +162,6 @@ updateTable('tune1');
         background-color: #222222;
         color: white;
         padding: 0.5em;
-        font-family: "Titillium Web", sans-serif;
         width: 35em;
     }
 
