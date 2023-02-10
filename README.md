@@ -156,6 +156,7 @@ updateTable('tune1');
         padding: 0.5em;
         font-family: "Titillium Web", sans-serif;
         width: 35em;
+        all: initial;
     }
 
     .pid-table>h4 {
