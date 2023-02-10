@@ -142,39 +142,45 @@ updateTable('tune1');
 <style>
     input[type=number]::-webkit-inner-spin-button,
     input[type=number]::-webkit-outer-spin-button {
+        all: initial;
         opacity: 1;
     }
 
     .pid-table>table {
+        all: initial;
         border-collapse: collapse;
         color: white;
     }
 
     .pid-table {
+        all: initial;
         background-color: #222222;
         color: white;
         padding: 0.5em;
         font-family: "Titillium Web", sans-serif;
         width: 35em;
-        all: initial;
     }
 
     .pid-table>h4 {
+        all: initial;
         color: #e09338;
         margin-top: 0;
         margin-bottom: 0.3em;
     }
 
     .pid-table input {
+        all: initial;
         width: 6em;
         height: 2em;
     }
 
     .slider {
+        all: initial;
         width: 300px;
     }
 
     .slider-label {
+        all: initial;
         vertical-align: middle;
         font-size: large;
         padding: 0;
